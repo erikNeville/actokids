@@ -1,3 +1,8 @@
+![acto-dashboard](https://user-images.githubusercontent.com/27576296/53259973-4c4a5180-3685-11e9-9180-199d20bf3af7.PNG)
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
